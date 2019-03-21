@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Lalala
+=======
+Lalala kek lol arbidol
+>>>>>>> dccf1a6b14b438567d1fa2e5846e8a34c38f0db7
